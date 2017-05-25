@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PebbleHR</string>
+    <string name="scanner_title">Select device:</string>
+    <string name="scanner_action_scan">Scan</string>
+</resources>
